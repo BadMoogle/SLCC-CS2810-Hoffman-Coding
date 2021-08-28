@@ -1,0 +1,4 @@
+project(hoffmancoding)
+
+add_executable(hoffmancoding node.cpp main.cpp)
+

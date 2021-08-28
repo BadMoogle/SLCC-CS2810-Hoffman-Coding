@@ -1,0 +1,1 @@
+/home/dharper/projects/HoffmanCoding/build/CMakeFiles/hoffmancoding.dir

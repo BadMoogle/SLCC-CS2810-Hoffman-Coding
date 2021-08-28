@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dharper/projects/HoffmanCoding/main.cpp
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+math.h
+-
+boost/lexical_cast.hpp
+-
+fstream
+-
+vector
+-
+tree.h
+/home/dharper/projects/HoffmanCoding/tree.h
+
+/home/dharper/projects/HoffmanCoding/node.cpp
+node.h
+/home/dharper/projects/HoffmanCoding/node.h
+bits/ios_base.h
+-
+
+/home/dharper/projects/HoffmanCoding/node.h
+vector
+-
+
+/home/dharper/projects/HoffmanCoding/tree.cpp
+tree.h
+/home/dharper/projects/HoffmanCoding/tree.h
+
+/home/dharper/projects/HoffmanCoding/tree.h
+node.h
+/home/dharper/projects/HoffmanCoding/node.h
+

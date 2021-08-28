@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/hoffmancoding.dir/tree.cpp.o CMakeFiles/hoffmancoding.dir/node.cpp.o CMakeFiles/hoffmancoding.dir/main.cpp.o  -o hoffmancoding -rdynamic 
